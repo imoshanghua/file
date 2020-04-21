@@ -1,1 +1,2 @@
-# images
+# Xiaomo File
+本仓库用来存放个人平时使用的一些文件和图片使之使用jsdeliv的CDN来进行加速访问。
